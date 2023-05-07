@@ -1,16 +1,1 @@
-# wanderlust
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"I have developed a Flutter application that uses its own Firebase database to retrieve information about various countries, including descriptions, currency, spoken language, and more. The app also features Google Maps integration, allowing users to see cities and their associated landmarks, hotels, museums, and restaurants, retrieved from the Yelp API. The app can also use the user's location to suggest nearby places to visit. Wanderlust also has a forum page where users can share information, comment on posts, and vote on content. Additionally, users can add each other as friends, message each other, and add their favorite countries and cities. Users can also view weather information for their favorite locations, and get directions to those places. Users can personalize their profiles with information and pictures, and I have implemented Firebase authentication to enable email verification and password reset functionality. The app also includes a chat bot powered by OpenAI's GPT-3.5 engine to help users search for countries. My friend and I are still actively developing this application."
