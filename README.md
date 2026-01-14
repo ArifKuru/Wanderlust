@@ -66,5 +66,5 @@ Our goal is to make every step of the journey unforgettable. With features like 
 **The Project of The Year @ Beykoz University**
 
 <div align="center">
-<img src="https://github.com/ArifKuru/Wanderlust/assets/125080971/8688be00-eb55-4f42-a9a1-d618c3526fc1" width="800" alt="Award Certificate">
+<img src="docs/award.png" width="800" alt="Award Certificate">
 </div>
